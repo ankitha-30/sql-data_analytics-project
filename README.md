@@ -19,5 +19,5 @@ MIT. Use it, change it, share it, with attribution.
 
 
 
-🌟 About me
+🌟 About me                            
 Hi, I'm Ankitha Nalumachu , Working IT Professional and enthusiastic about learning new skills.
